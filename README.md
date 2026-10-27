@@ -1,7 +1,7 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-## Student Name : RITHIK M                                                                                                                                                  DATE:22-10-2026
+## Student Name : RITHIK M                                                                                                                                               
 ## Register Number : 212225040342
-
+## DATE:22-10-2026
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
